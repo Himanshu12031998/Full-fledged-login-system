@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Hima",
+      "email": "rajhimanshu428@gmail.com",
+      "number": "123456",
+      "username": "adminuser",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Hima",
+      "email": "rajhimanshu428@gmail.com",
+      "number": "797974743",
+      "id": 4
+    },
+    {
+      "name": "Himanshu",
+      "email": "hima@gmail.com",
+      "number": "12345",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "username": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "Ratan Priya",
+      "email": "rp.babu@gmail.com",
+      "number": "8582008979",
+      "username": "priya12",
+      "password": "12345",
+      "id": 7
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Himanshu",
+      "email": "rajhimanshu428@gmail.com",
+      "number": "98127",
+      "id": 1
+    },
+    {
+      "name": "Puja",
+      "email": "Puja@gmail.com",
+      "number": "12345",
+      "id": 2
+    },
+    {
+      "name": "Raghav",
+      "email": "ragahv@gmail.com",
+      "number": "1234123443",
+      "id": 3
+    }
+  ]
+}
